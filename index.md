@@ -12,3 +12,7 @@ if Code_Added:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Create a list
+- [x] Check that list is working
+- [ ] Go to next step
